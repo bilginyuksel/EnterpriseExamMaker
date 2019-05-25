@@ -1,5 +1,5 @@
-<p> In this project i used 4 design patterns on project design. And for taking student informations i used
-excell library Apache POI. For preparing pdfs i used pdf library itextpdf.</p>
+<p> In this project i used 4 design patterns on project design. I used
+excell library Apache POI for taking student informations. I used pdf library itextpdf for preparing pdfs.</p>
 
 <h3>MVP Design Pattern</h3>
 
